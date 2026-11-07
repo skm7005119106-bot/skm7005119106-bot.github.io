@@ -1,10 +1,26 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.skm7005119106_bot.twa",
-    "sha256_cert_fingerprints": [
-      "4B:4A:AA:A3:63:13:DF:2A:DE:64:46:E9:9C:75:ED:7A:F7:A8:77:C7:13:32:0E:AE:3D:45:16:1F:A1:DB:AD:0C"
-    ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.skm7005119106_bot.twa",
+      "sha256_cert_fingerprints": [
+        "4B:4A:AA:A3:63:13:DF:2A:DE:64:46:E9:9C:75:ED:7A:F7:A8:77:C7:13:32:0E:AE:3D:45:16:1F:A1:DB:AD:0C"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.asish.naamras",
+      "sha256_cert_fingerprints": [
+        "66:54:52:48:13:63:0E:7B:D6:59:8E:FD:5B:F3:EA:34:B8:BE:77:8C:13:3B:5A:49:C6:25:D3:46:C9:6F:F4:C3"
+      ]
+    }
   }
-}]
+]
